@@ -2,6 +2,10 @@
 Very simple and basic boats anchor script. While anchored, boat will drift back and forth in anchored place depending on location where it was anchored.
 If force exceeds, anchor might brake, for example if you start driving anchor will brake.
 
+# Dependencies
+You ABSOLUTLY need ox_lib.
+https://github.com/overextended/ox_lib
+
 # Config
 
 All of the configs here are set using `setr [anchor:configOption] [boolean]`
