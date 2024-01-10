@@ -3,7 +3,7 @@ Very simple and basic boats anchor script. While anchored, boat will drift back 
 If force exceeds, anchor might brake, for example if you start driving anchor will brake.
 
 # Dependencies
-You ABSOLUTLY need ox_lib.
+You ABSOLUTELY need ox_lib.
 https://github.com/overextended/ox_lib
 
 # Config
